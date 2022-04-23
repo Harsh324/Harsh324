@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh324" alt="harsh324" /></a> </p>
 
-- 🔭 I’m currently working on **Bank Management System**
+- 🔭 I’m currently working on **Portfolio webapp**
 
-- 🌱 I’m currently learning **Django, OOPS**
+- 🌱 I’m currently learning **Django, MERN**
 
-- 💬 Ask me about **Python, Java, OOPS**
+- 💬 Ask me about **OOPS, Java, Python**
 
 - 📫 How to reach me **harshravi324@gmail.com**
 
-- ⚡ Fun fact **I Think i am Determined**
+- ⚡ Fun fact **I Think I am Determined**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
