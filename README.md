@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh324" alt="harsh324" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio webapp**
+- 🔭 I’m currently working on **Scrapper**
 
-- 🌱 I’m currently learning **Django, MERN**
+- 🌱 I’m currently learning **scrapy, ML**
 
-- 💬 Ask me about **OOPS, Java, Python**
+- 💬 Ask me about **OOPS, C++, Python**
 
 - 📫 How to reach me **harshravi324@gmail.com**
 
