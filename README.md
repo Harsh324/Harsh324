@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh324" alt="harsh324" /></a> </p>
 
-- 🔭 I’m currently working on **ExchangeX <a href="https://github.com/Harsh324/ExchangeX"**
+- 🔭 I’m currently working on **ExchangeX**
 
 - 🌱 I’m currently learning **scrapy, ML**
 
